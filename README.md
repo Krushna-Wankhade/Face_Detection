@@ -49,5 +49,5 @@ This project is open-source under the MIT License.
 
 ### 1️⃣ Clone the Repository  
 ```sh
-git clone https://github.com/Krushna-Wankhade/Face_Detection.git
-cd Face_Detection
+git clone https://github.com/Krushna-Wankhade/Face_Recognition_based_Attendance_System.git
+cd Face_Recognition_based_Attendance_System
