@@ -2,6 +2,7 @@
 
 This project implements a **Face Recognition-based Attendance System** that detects, trains, and recognizes faces to automate attendance marking using **Python and OpenCV**.  
 
+
 ## 🚀 Features  
 ✅ **Face Detection & Recognition** – Detect and recognize faces in real-time  
 ✅ **Model Training** – Train the system to recognize specific individuals  
